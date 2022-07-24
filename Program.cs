@@ -10,5 +10,6 @@ namespace SnakeLadder
             SnakeLadder game = new SnakeLadder();
             game.Board();
         }
+
     }
 }
